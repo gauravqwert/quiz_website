@@ -20,6 +20,12 @@
     float: right;
     color: #fff;
   }
+  .timer {
+    float: right;
+    margin-right: 20px;
+    font-size: 18px;
+    color: white;
+}
   .quiz-body {
     margin-top: 15px;
     padding-bottom: 50px;
